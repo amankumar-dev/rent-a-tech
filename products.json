@@ -1,0 +1,100 @@
+[
+    {
+        "id": 0,
+        "name": "MacBook Pro M1/16GB/512GB/16 Screen/Integrated Graphic/Wifi",
+        "price": 78,
+        "img": "img/products/f1.png",
+        "brand": "Apple"
+    },
+    {
+        "id": 1,
+        "name": "MacBook Pro M1/16GB/512GB/16 Screen/Integrated Graphic/Wifi",
+        "price": 78,
+        "img": "img/products/f2.png",
+        "brand": "Apple"
+    },
+    {
+        "id": 2,
+        "name": "Laptop core i7 8th Gen and above/8GB/512GB SSD/14\"",
+        "price": 78,
+        "img": "img/products/f3.png",
+        "brand": "HP"
+    },
+    {
+        "id": 3,
+        "name": "Laptop core i7 8th Gen and above/8GB/512GB SSD/14\"",
+        "price": 78,
+        "img": "img/products/f4.png",
+        "brand": "HP"
+    },
+    {
+        "id": 4,
+        "name": "iPad Pro/64GB/Wifi/11.2\" and above Screen /Latest iOSs",
+        "price": 78,
+        "img": "img/products/f5.png",
+        "brand": "Apple"
+    },
+    {
+        "id": 5,
+        "name": "Samsung Tab A8/4GB/64GB/10.5\" Screen/Wi-fi",
+        "price": 78,
+        "img": "img/products/f6.png",
+        "brand": "Samsung"
+    },
+    {
+        "id": 6,
+        "name": "iPad 9th Gen and above/64GB/Wifi/10.2\" Screen/Latest iOS",
+        "price": 78,
+        "img": "img/products/f7.png",
+        "brand": "Apple"
+    },
+    {
+        "id": 7,
+        "name": "LaserJet Normal Colour Printer",
+        "price": 78,
+        "img": "img/products/f8.png",
+        "brand": "canon"
+    },
+    {
+        "id": 8,
+        "name": "Heavy Duty B/W Printer",
+        "price": 78,
+        "img": "img/products/f9.png",
+        "brand": "canon"
+    },
+    {
+        "id": 9,
+        "name": "Laserjet Normal B/W Printer",
+        "price": 78,
+        "img": "img/products/f10.png",
+        "brand": "HP"
+    },
+    {
+        "id": 10,
+        "name": "Hevay Duty Colour Printer",
+        "price": 78,
+        "img": "img/products/f11.png",
+        "brand": "canon"
+    },
+    {
+        "id": 11,
+        "name": "Gaming & Graphic Desktop",
+        "price": 78,
+        "img": "img/products/f12.png",
+        "brand": "HP"
+    },
+    {
+        "id": 12,
+        "name": "Access Point Dual Band/Normal & POE/ Multi Gig/ Tri Band",
+        "price": 78,
+        "img": "img/products/f13.png",
+        "brand": "Cisco"
+    },
+    {
+        "id": 13,
+        "name": "Switch 8 to 24 Port and above/ Non Manageable & Manageable",
+        "price": 78,
+        "img": "img/products/f14.png",
+        "brand": "Cisco"
+    }
+]
